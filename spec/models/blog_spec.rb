@@ -17,6 +17,10 @@
     )
   end
 
+  describe 'association' do
+    it { is_expected.to belong_to :user }
+  end
+
   describe 'creation' do
     it 'can be created' do
       expect(blog).to be_valid

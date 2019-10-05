@@ -555,10 +555,6 @@
         1,
         null
       ],
-      "/Users/john/Projects/sandbox_practices_etc/rails_new_projects/social_three/app/helpers/posts_helper.rb": [
-        1,
-        null
-      ],
       "/Users/john/Projects/sandbox_practices_etc/rails_new_projects/social_three/app/controllers/blogs_controller.rb": [
         1,
         null,
@@ -602,17 +598,6 @@
         1,
         4,
         null,
-        null
-      ],
-      "/Users/john/Projects/sandbox_practices_etc/rails_new_projects/social_three/spec/controllers/posts_controller_spec.rb": [
-        1,
-        null,
-        1,
-        null,
-        null
-      ],
-      "/Users/john/Projects/sandbox_practices_etc/rails_new_projects/social_three/app/controllers/posts_controller.rb": [
-        1,
         null
       ],
       "/Users/john/Projects/sandbox_practices_etc/rails_new_projects/social_three/spec/features/blog_spec.rb": [
@@ -702,22 +687,6 @@
         1,
         null
       ],
-      "/Users/john/Projects/sandbox_practices_etc/rails_new_projects/social_three/spec/helpers/posts_helper_spec.rb": [
-        1,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        null,
-        1,
-        null
-      ],
       "/Users/john/Projects/sandbox_practices_etc/rails_new_projects/social_three/spec/models/blog_spec.rb": [
         1,
         null,
@@ -736,6 +705,10 @@
         null,
         null,
         null,
+        null,
+        null,
+        1,
+        2,
         null,
         null,
         1,
@@ -781,18 +754,6 @@
         1,
         null
       ],
-      "/Users/john/Projects/sandbox_practices_etc/rails_new_projects/social_three/spec/models/post_spec.rb": [
-        1,
-        null,
-        1,
-        null,
-        null,
-        null
-      ],
-      "/Users/john/Projects/sandbox_practices_etc/rails_new_projects/social_three/app/models/post.rb": [
-        1,
-        null
-      ],
       "/Users/john/Projects/sandbox_practices_etc/rails_new_projects/social_three/spec/models/user_spec.rb": [
         1,
         null,
@@ -830,6 +791,6 @@
         null
       ]
     },
-    "timestamp": 1570246290
+    "timestamp": 1570250253
   }
 }
