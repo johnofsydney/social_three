@@ -1,5 +1,7 @@
-class BlogsController < ApplicationController
+# frozen_string_literal: true
 
+# class definition for BlogsController
+class BlogsController < ApplicationController
   def index
     @blogs = Blog.all
   end
@@ -37,6 +39,7 @@ class BlogsController < ApplicationController
   end
 
   private
+
   def blog_params
     params.require(:blog).permit(:content)
   end

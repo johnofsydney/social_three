@@ -1,0 +1,25 @@
+require:
+  # - rubocop-performance
+  # - rubocop-rails
+
+AllCops:
+  TargetRubyVersion: 2.6
+
+  Exclude:
+    - '**/templates/**/*'
+    - '**/vendor/**/*'
+    - 'actionpack/lib/action_dispatch/journey/parser.rb'
+    - 'railties/test/fixtures/tmp/**/*'
+    - 'actionmailbox/test/dummy/**/*'
+    - 'actiontext/test/dummy/**/*'
+    - '**/node_modules/**/*'
+    - 'spec/**/*'
+    - 'db/**/*'
+    - 'config/**/*'
+    - 'bin/**/*'
+    - 'config.*'
+    - 'app/mailers/*'
+    - 'app/jobs/*'
+    - 'app/helpers/*'
+    - 'app/channels/**/*'
+    - 'Rakefile'

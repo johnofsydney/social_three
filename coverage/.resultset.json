@@ -533,6 +533,9 @@
         null
       ],
       "/Users/john/Projects/sandbox_practices_etc/rails_new_projects/social_three/app/models/user.rb": [
+        null,
+        null,
+        null,
         1,
         null,
         null,
@@ -543,6 +546,9 @@
         null
       ],
       "/Users/john/Projects/sandbox_practices_etc/rails_new_projects/social_three/app/models/application_record.rb": [
+        null,
+        null,
+        null,
         1,
         1,
         null
@@ -556,8 +562,10 @@
         null
       ],
       "/Users/john/Projects/sandbox_practices_etc/rails_new_projects/social_three/app/controllers/blogs_controller.rb": [
-        1,
         null,
+        null,
+        null,
+        1,
         1,
         5,
         null,
@@ -595,6 +603,7 @@
         null,
         null,
         1,
+        null,
         1,
         4,
         null,
@@ -749,6 +758,9 @@
         null
       ],
       "/Users/john/Projects/sandbox_practices_etc/rails_new_projects/social_three/app/models/blog.rb": [
+        null,
+        null,
+        null,
         1,
         1,
         1,
@@ -785,12 +797,14 @@
         null
       ],
       "/Users/john/Projects/sandbox_practices_etc/rails_new_projects/social_three/app/controllers/home_controller.rb": [
-        1,
-        1,
         null,
+        null,
+        null,
+        1,
+        1,
         null
       ]
     },
-    "timestamp": 1570250253
+    "timestamp": 1570252490
   }
 }
