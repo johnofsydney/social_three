@@ -5,9 +5,10 @@
 
 - Ruby 2.6.4
 - Rails 6.0.0
+- Devise 4.7.1
 - Rspec 4.0.0 (Beta2)
 - Capybara 3.2.9
-- Postgres
+- Postgres 10
 
 Created this project to practice devise and rspec.
 There's a tutorial [here:](https://johnofsydney.github.io/notes/rails/rails_new_project_with_devise.html) which you should read
