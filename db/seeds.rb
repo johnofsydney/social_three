@@ -5,3 +5,23 @@
 #
 #   movies = Movie.create([{ name: 'Star Wars' }, { name: 'Lord of the Rings' }])
 #   Character.create(name: 'Luke', movie: movies.first)
+
+
+users = User.create(
+  [
+    {name: 'tom', email: 'tom@foo.net', password: 'chicken'},
+    {name: 'dick', email: 'dick@foo.net', password: 'chicken'},
+    {name: 'harry', email: 'harry@foo.net', password: 'chicken'},
+  ]
+)
+
+blogs = Blog.create(
+  [
+    {content: 'lorem', user: users.first},
+    {content: 'ipsum', user: users.first},
+    {content: 'facto', user: users.first},
+    {content: 'loremio', user: users.second},
+    {content: 'ipsum dipsum', user: users.second},
+    {content: 'facto dilacto', user: users.last},
+  ]
+)
