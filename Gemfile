@@ -8,11 +8,11 @@ ruby '2.6.4'
 gem 'bootsnap', '>= 1.4.2', require: false
 gem 'jbuilder', '~> 2.7'
 gem 'pg', '>= 0.18', '< 2.0'
-gem 'puma', '~> 3.11'
+gem 'puma', '>= 5.3.1'
 gem 'rails', '~> 6.0.0'
 gem 'sass-rails', '~> 5'
 gem 'turbolinks', '~> 5'
-gem 'webpacker', '~> 4.0'
+gem 'webpacker', '>= 5.1.2'
 
 group :development, :test do
   gem 'byebug', platforms: %i[mri mingw x64_mingw]
@@ -21,6 +21,7 @@ group :development, :test do
   gem 'rails-controller-testing'
   gem 'rspec-rails', '~> 4.0.0.beta2'
   gem 'rubocop'
+  gem 'bundler-audit'
 end
 
 group :development do
