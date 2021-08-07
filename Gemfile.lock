@@ -61,18 +61,12 @@ GEM
     ast (2.4.2)
     bcrypt (3.1.16)
     bindex (0.8.1)
-<<<<<<< HEAD
     bootsnap (1.7.7)
-      msgpack (~> 1.0)
-    builder (3.2.4)
-=======
-    bootsnap (1.7.6)
       msgpack (~> 1.0)
     builder (3.2.4)
     bundler-audit (0.8.0)
       bundler (>= 1.2.0, < 3)
       thor (~> 1.0)
->>>>>>> 1dba3670cc2c66ab6bafdcd84b098576065ef47e
     byebug (11.1.3)
     capybara (3.35.3)
       addressable
@@ -95,13 +89,8 @@ GEM
     docile (1.4.0)
     erubi (1.10.0)
     ffi (1.15.3)
-<<<<<<< HEAD
     globalid (0.5.2)
       activesupport (>= 5.0)
-=======
-    globalid (0.4.2)
-      activesupport (>= 4.2.0)
->>>>>>> 1dba3670cc2c66ab6bafdcd84b098576065ef47e
     i18n (1.8.10)
       concurrent-ruby (~> 1.0)
     jbuilder (2.11.2)
@@ -110,11 +99,7 @@ GEM
       rb-fsevent (~> 0.9, >= 0.9.4)
       rb-inotify (~> 0.9, >= 0.9.7)
       ruby_dep (~> 1.2)
-<<<<<<< HEAD
     loofah (2.11.0)
-=======
-    loofah (2.10.0)
->>>>>>> 1dba3670cc2c66ab6bafdcd84b098576065ef47e
       crass (~> 1.0.2)
       nokogiri (>= 1.5.9)
     mail (2.7.1)
@@ -122,21 +107,12 @@ GEM
     marcel (1.0.1)
     method_source (1.0.0)
     mini_mime (1.1.0)
-<<<<<<< HEAD
     mini_portile2 (2.6.1)
     minitest (5.14.4)
     msgpack (1.4.2)
     nio4r (2.5.8)
     nokogiri (1.12.2)
       mini_portile2 (~> 2.6.1)
-=======
-    mini_portile2 (2.5.3)
-    minitest (5.14.4)
-    msgpack (1.4.2)
-    nio4r (2.5.7)
-    nokogiri (1.11.7)
-      mini_portile2 (~> 2.5.0)
->>>>>>> 1dba3670cc2c66ab6bafdcd84b098576065ef47e
       racc (~> 1.4)
     orm_adapter (0.5.0)
     parallel (1.20.1)
@@ -150,12 +126,8 @@ GEM
       byebug (~> 11.0)
       pry (~> 0.13.0)
     public_suffix (4.0.6)
-<<<<<<< HEAD
-    puma (3.12.6)
-=======
-    puma (5.3.2)
+    puma (5.4.0)
       nio4r (~> 2.0)
->>>>>>> 1dba3670cc2c66ab6bafdcd84b098576065ef47e
     racc (1.5.2)
     rack (2.2.3)
     rack-proxy (0.7.0)
@@ -228,11 +200,7 @@ GEM
       rubocop-ast (>= 1.8.0, < 2.0)
       ruby-progressbar (~> 1.7)
       unicode-display_width (>= 1.4.0, < 3.0)
-<<<<<<< HEAD
     rubocop-ast (1.9.0)
-=======
-    rubocop-ast (1.8.0)
->>>>>>> 1dba3670cc2c66ab6bafdcd84b098576065ef47e
       parser (>= 3.0.1.1)
     ruby-progressbar (1.11.0)
     ruby_dep (1.5.0)
@@ -247,10 +215,7 @@ GEM
       sprockets (>= 2.8, < 4.0)
       sprockets-rails (>= 2.0, < 4.0)
       tilt (>= 1.1, < 3)
-<<<<<<< HEAD
-=======
     semantic_range (3.0.0)
->>>>>>> 1dba3670cc2c66ab6bafdcd84b098576065ef47e
     shoulda-matchers (5.0.0)
       activesupport (>= 5.2.0)
     simplecov (0.21.2)
@@ -286,18 +251,11 @@ GEM
       activemodel (>= 6.0.0)
       bindex (>= 0.4.0)
       railties (>= 6.0.0)
-<<<<<<< HEAD
-    webpacker (4.3.0)
-      activesupport (>= 4.2)
-      rack-proxy (>= 0.6.1)
-      railties (>= 4.2)
-=======
     webpacker (5.4.0)
       activesupport (>= 5.2)
       rack-proxy (>= 0.6.1)
       railties (>= 5.2)
       semantic_range (>= 2.3.0)
->>>>>>> 1dba3670cc2c66ab6bafdcd84b098576065ef47e
     websocket-driver (0.7.5)
       websocket-extensions (>= 0.1.0)
     websocket-extensions (0.1.5)
