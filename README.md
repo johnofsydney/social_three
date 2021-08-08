@@ -16,3 +16,6 @@ There's a tutorial [here:](https://johnofsydney.github.io/notes/rails/rails_new_
 This repo useful for how to:
 - make a rails app with devise. Devise is the industry standard for authentication, but it's not _super_ easy to get started with. Follow the tutorial steps to get an app with devise for users.
 - get 100% coverage with your Rspec tests on models & controllers and Capybara for views
+
+### August 2021
+Did some updates to rails etc. Tutorial still solid.

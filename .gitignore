@@ -12,7 +12,7 @@
 /tmp/*
 !/log/.keep
 !/tmp/.keep
-/coverage/*
+coverage/
 
 # Ignore uploaded files in development.
 /storage/*
@@ -31,4 +31,4 @@
 yarn-debug.log*
 .yarn-integrity
 
-/.vscode/*
+.vscode/
